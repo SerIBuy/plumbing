@@ -224,6 +224,7 @@ body {
 .about-info-11 {
     margin: 0;
     margin-bottom: 24px;
+    font-size: inherit;
 }
 
 .about-info-first-word {
